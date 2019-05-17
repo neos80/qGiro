@@ -37,7 +37,7 @@
        <enum>Qt::NoFocus</enum>
       </property>
       <property name="currentIndex">
-       <number>2</number>
+       <number>0</number>
       </property>
       <widget class="QWidget" name="tab_4">
        <attribute name="title">
@@ -112,7 +112,7 @@
               </size>
              </property>
              <property name="text">
-              <string>ГиБ-3 №309418</string>
+              <string>ГиБ-3 №303318</string>
              </property>
              <property name="cursorPosition">
               <number>13</number>
@@ -135,7 +135,7 @@
               </size>
              </property>
              <property name="text">
-              <string>№309418</string>
+              <string>№309333</string>
              </property>
              <property name="cursorPosition">
               <number>7</number>
@@ -151,7 +151,7 @@
               </size>
              </property>
              <property name="text">
-              <string>№309463/B</string>
+              <string>№309111/B</string>
              </property>
              <property name="cursorPosition">
               <number>9</number>
@@ -207,7 +207,7 @@
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;“Гироскопическое ориентирование стороны подземной полигонометрии левого перегонного тоннеля на &lt;span style=&quot; font-family:'Ubuntu'; font-size:9pt;&quot;&gt;ПЗ+ПЗ&lt;/span&gt; Калининско-Солнцевской линии Московского метрополитена.”&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;“Гироскопическое ориентирование стороны подземной полигонометрии левого перегонного тоннеля на ПК108+34 - ПК107+84 Грибоедовской линии Московского метрополитена.”&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
              </property>
             </widget>
            </item>
@@ -221,7 +221,7 @@ p, li { white-space: pre-wrap; }
            <item>
             <widget class="QLineEdit" name="EditPismo">
              <property name="text">
-              <string>№0121 от 20.01.2017 г. АО &quot;Волгатрансстрой-метро&quot;</string>
+              <string>№0121 от 20.01.2017 г. ОО “qTrassa Inc.”</string>
              </property>
             </widget>
            </item>
@@ -244,7 +244,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:9pt;&quot;&gt;Оперативные данные №1 по теме «Гироскопическое ориентирование подземной полигонометрии ЛПТ на ПЗ+ПЗ Калининско-Солнцевской линии Московского метрополитена».&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Оперативные данные №3 по теме «Гироскопическое ориентирование подземной полигонометрии ППТ на ПК108+34 - ПК107+84 Грибоедовской линии Московского метрополитена».&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
              </property>
             </widget>
            </item>
@@ -262,7 +262,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:9pt;&quot;&gt;PismoOtData и в соответствии с требованием технической литературы был выполнен комплекс работ по ориентированию стороны подземной полигонометрии в левом перегонном тоннеле Калининско-Солнцевской линии Московского метрополитена от ст. «Боровское шоссе» до ст. «Солнцево» на &lt;/span&gt;PkPzOdin+PkPzDva&lt;span style=&quot; font-family:'Ubuntu'; font-size:9pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;На основании письма №8-1/559 от 29.06.2015 г. ООО «qTrassa Inc.» и в соответствии с требованием технической литературы был выполнен комплекс работ по ориентированию стороны подземной полигонометрии в правом перегонном тоннеле Грибоедовской линии Московского метрополитена от ст. «Москва» до ст. «Домодедово» на ПК108+34 - ПК107+84.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
              </property>
             </widget>
            </item>
