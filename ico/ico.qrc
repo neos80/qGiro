@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>giro_svg.svg</file>
+        <file>logo2.ico</file>
+        <file>logo_png.png</file>
+    </qresource>
+</RCC>
