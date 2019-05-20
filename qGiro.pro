@@ -9,10 +9,10 @@ QT       += core gui gui-private
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 VERSION = 0.3
-#QMAKE_TARGET_COMPANY = Kosorukov O.M.
+#QMAKE_TARGET_COMPANY = Oleg M.Kosorukov
 #QMAKE_TARGET_PRODUCT = Giro
 #QMAKE_TARGET_DESCRIPTION = App calc giro
-#QMAKE_TARGET_COPYRIGHT = Kosorukov O.M. 2019
+#QMAKE_TARGET_COPYRIGHT = Oleg M.Kosorukov 2019
 
 TARGET = qGiro
 TEMPLATE = app
